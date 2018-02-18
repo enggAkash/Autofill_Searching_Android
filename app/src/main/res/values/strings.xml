@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Autofill Rough 1</string>
+
+
+    <string name="user_json">{
+  "user_detail": [
+    {
+      "id": 1,
+      "name": "Akash",
+      "mobile": "9999999999",
+      "email": "email@example.com",
+      "address": "New Delhi, India"
+    },
+    {
+      "id": 2,
+      "name": "sarvesh",
+      "mobile": "2333377777",
+      "email": "email@sarvu.com",
+      "address": "Kolkata, India"
+    },
+    {
+      "id": 3,
+      "name": "Chandan",
+      "mobile": "5555555555",
+      "email": "email@chandan.com",
+      "address": "Beijing, Chin"
+    },
+    {
+      "id": 4,
+      "name": "Harry",
+      "mobile": "3333333333",
+      "email": "nepali@example.com",
+      "address": "Kathmandoo, Nepal"
+    },
+    {
+      "id": 5,
+      "name": "Nishant",
+      "mobile": "3333333333",
+      "email": "nishant@bhushan.com",
+      "address": "Greater Noida, India"
+    },
+    {
+      "id": 6,
+      "name": "Indar",
+      "mobile": "2222222222",
+      "email": "indarjeet2017@gmail.com",
+      "address": "Karol Bagh, Delhi, India"
+    },
+    {
+      "id": 7,
+      "name": "Aisha",
+      "mobile": "77777777",
+      "email": "aisha@example.com",
+      "address": "Canbera, Australia"
+    },
+    {
+      "id": 8,
+      "name": "Drona",
+      "mobile": "666999999",
+      "email": "drona@example.com",
+      "address": "Bihar, India"
+    },
+    {
+      "id": 9,
+      "name": "David",
+      "mobile": "779999999",
+      "email": "david@example.com",
+      "address": "Washington, USA"
+    },
+    {
+      "id": 10,
+      "name": "Jack",
+      "mobile": "8899999999",
+      "email": "jack@example.com",
+      "address": "New York, USA"
+    }
+  ]
+}</string>
+
+</resources>
